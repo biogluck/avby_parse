@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 sqlalchemy = "*"
 bs4 = "*"
+requests = "*"
+lxml = "*"
 
 [requires]
 python_version = "3.8"
